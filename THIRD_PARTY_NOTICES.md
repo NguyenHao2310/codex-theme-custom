@@ -1,5 +1,11 @@
 # Third-party notices
 
+## Pixel Studio customization
+
+- Author and maintainer: **Gia Hào**.
+- Contributions: the Pixel Studio interface, local video library, live appearance controls, Codex integration and backdrop fixes.
+- License: MIT, copyright (c) 2026 Gia Hào.
+
 ## Pixel Chat Themes
 
 - Author: **aqua2409z**

@@ -1,12 +1,14 @@
 # codex-theme-custom
 
-**Pixel Studio V2 cho Codex trên Windows** — nền pixel chuyển động, video cục bộ và bảng tùy chỉnh ngay trên thanh công cụ của cửa sổ chat.
+**Pixel Studio — Gia Hào** — nền pixel chuyển động, video cục bộ và bảng tùy chỉnh ngay trên thanh công cụ của cửa sổ chat Codex trên Windows.
+
+**Tác giả và phát triển bản tùy biến: Gia Hào.**
 
 Đây là dự án cộng đồng, không liên kết với OpenAI. Phần vẽ 9 cảnh được chuyển từ [Pixel Chat Themes](https://github.com/aqua2409z/pixel-chat-themes) của **aqua2409z** theo giấy phép MIT.
 
 ## Tính năng
 
-Bản **2.0.2** bỏ cả nền chân ô nhập lẫn hai gradient tối ở mép trên/dưới vùng chat khi bật theme. Nền ô soạn thảo và mặt nạ cuộn chữ được giữ nguyên; tắt theme khôi phục giao diện gốc.
+Bản **2.0.3** bổ sung ghi tên tác giả Gia Hào trong giao diện, mã nguồn và gói tải về; giữ các sửa lỗi nền và gradient của 2.0.2. Nền ô soạn thảo và mặt nạ cuộn chữ được giữ nguyên; tắt theme khôi phục giao diện gốc.
 
 - Nút bốn ô vuông cạnh các nút điều khiển chat ở góc trên phải.
 - Bảng chọn 9 cảnh có ảnh xem trước: terminal, mây, rùa biển, Koi, sứa, thuyền giấy, đom đóm, trăng sao và Việt Nam.
@@ -64,4 +66,4 @@ npm run check
 
 ## Giấy phép và ghi nguồn
 
-MIT. Giữ nguyên [LICENSE](LICENSE) của engine gốc. Xem [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) để biết nguồn và phần đã chuyển đổi.
+MIT. Bản tùy biến và giao diện Pixel Studio do **Gia Hào** phát triển. Engine vẽ cảnh gốc của **aqua2409z** được ghi công và giữ thông báo bản quyền trong [LICENSE](LICENSE). Xem [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) để biết nguồn và phần đã chuyển đổi.

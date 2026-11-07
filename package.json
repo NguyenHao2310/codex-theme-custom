@@ -1,6 +1,7 @@
 {
   "name": "codex-theme-custom",
-  "version": "2.0.2",
+  "version": "2.0.3",
+  "author": "Gia Hào",
   "private": true,
   "description": "Unofficial Pixel Studio V2 themes and local video wallpapers for Codex on Windows",
   "license": "MIT",
