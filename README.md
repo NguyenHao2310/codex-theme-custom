@@ -6,7 +6,7 @@
 
 ## Tính năng
 
-Bản **2.0.1** sửa dải nền đen phía dưới vùng nhập: lớp trang trí chân ô nhập trở nên trong suốt khi bật theme, giữ nguyên nền của ô soạn thảo và khôi phục nền gốc khi tắt theme.
+Bản **2.0.2** bỏ cả nền chân ô nhập lẫn hai gradient tối ở mép trên/dưới vùng chat khi bật theme. Nền ô soạn thảo và mặt nạ cuộn chữ được giữ nguyên; tắt theme khôi phục giao diện gốc.
 
 - Nút bốn ô vuông cạnh các nút điều khiển chat ở góc trên phải.
 - Bảng chọn 9 cảnh có ảnh xem trước: terminal, mây, rùa biển, Koi, sứa, thuyền giấy, đom đóm, trăng sao và Việt Nam.
