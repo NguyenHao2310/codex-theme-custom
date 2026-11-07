@@ -6,6 +6,8 @@
 
 ## Tính năng
 
+Bản **2.0.1** sửa dải nền đen phía dưới vùng nhập: lớp trang trí chân ô nhập trở nên trong suốt khi bật theme, giữ nguyên nền của ô soạn thảo và khôi phục nền gốc khi tắt theme.
+
 - Nút bốn ô vuông cạnh các nút điều khiển chat ở góc trên phải.
 - Bảng chọn 9 cảnh có ảnh xem trước: terminal, mây, rùa biển, Koi, sứa, thuyền giấy, đom đóm, trăng sao và Việt Nam.
 - Video nền từ tệp trên máy, tối đa 200 MB; phát lặp và tắt tiếng.
