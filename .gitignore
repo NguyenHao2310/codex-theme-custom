@@ -1,0 +1,9 @@
+node_modules/
+.runtime-session.json
+*.log
+.env
+.env.*
+work/
+*.local.*
+.DS_Store
+Thumbs.db
